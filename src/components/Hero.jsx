@@ -25,7 +25,6 @@ const Hero = () => {
         <p className="md:text-2xl sm:text-xl text-xl font-bold text-gray-500">
           Secure, transparent fundraising for every cause.
         </p>
-        <p />
       </div>
     </div>
   );
