@@ -9,5 +9,4 @@ const Analytics = () => {
     </div>
   );
 };
-//new commit :'''(
 export default Analytics;
