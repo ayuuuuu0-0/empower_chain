@@ -25,6 +25,9 @@ const Hero = () => {
         <p className="md:text-2xl sm:text-xl text-xl font-bold text-gray-500">
           Secure, transparent fundraising for every cause.
         </p>
+        <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
+          Get Started
+        </button>
       </div>
     </div>
   );
